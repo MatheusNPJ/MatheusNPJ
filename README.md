@@ -4,6 +4,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnpj&layout=compact&langs_count=10&theme=merko" />
 </div>
+<br>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,css,discord,git,github,html,idea,java,mysql,php,vscode" alt="Skills and tools"/>
