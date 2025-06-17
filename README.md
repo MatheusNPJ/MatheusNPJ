@@ -1,36 +1,31 @@
 <h1 align="center">Hi, I'm Matheus Navalski! 👋 </h1>
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
-
-<p align="center">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnpj&layout=compact&langs_count=10&theme=merko" />
+</div>
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,css,discord,git,github,html,idea,java,mysql,php,vscode" alt="Skills and tools"/>
   </a>
 </p>
+  <div style="text-align: left;">
+    <h3>🌐 Let's Connect and Grow Together!</h3>
+    <p>
+      <a href="https://www.linkedin.com/in/matheus-navalski-927661273" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" />
+      </a>
+    </p>
+  </div>
 
+  
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-    <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/MatheusNPJ/MatheusNPJ/main/github-metrics.svg">
-    </div>
-
-
-  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-        <h3>🌐 Let's Connect and Grow Together!</h3>
-        <p>
-            <a href="https://www.linkedin.com/in/matheus-navalski-927661273" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
-            </a>
-            </a>
-            <a href="https://#" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
-            </a>
-            <a href="https://#" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-            </a>
-        </p>
-        
   <h3>✨ Fun Facts</h3>
         <ul>
             <li>I love Hackathons, Swimming and Tennis.</li>
