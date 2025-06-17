@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,css,discord,git,github,html,idea,mysql,php,vscode" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=c,cs,css,discord,git,github,html,idea,java,mysql,php,vscode" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -12,14 +12,14 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
     <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/MatheusNPJ/MatheusNPJ/blob/main/github-metrics.svg">
     </div>
 
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
-            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+            <a href="https://www.linkedin.com/in/matheus-navalski-927661273" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
             </a>
             </a>
