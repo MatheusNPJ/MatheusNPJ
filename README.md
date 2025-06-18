@@ -5,7 +5,8 @@
            I am a passionate software developer with solid experience in full-stack web development and a mobile bias. Interested in creating innovative systems that help people's daily lives in a positive and conscious way.
         </p>
         <p>
-            My journey in the technology area began 3 years ago. I am currently in the last period of my undergraduate degree in systems analysis and development and deciding whether to focus on Java or Python as a specialization.
+
+My journey in the technology field began 3 years ago. I am currently in the last period of my degree in systems analysis and development. I have general knowledge in the languages ​​mentioned and I am deciding whether to focus on Java or Python as a specialization.
         </p>
         
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
@@ -21,18 +22,7 @@
     </td>
   </tr>
 </table>
-  <div style="text-align: left;">
-    <h3>Open to partnerships, contact through:</h3>
-    <p>
-      <a href="https://www.linkedin.com/in/matheus-navalski-927661273" target="_blank">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
-      </a>
-      <a href="https://www.navalski.com" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=c84A8yTomT5p&format=png&color=000000" alt="SitePessoal" width="30" />
-      </a>
-    </p>
-  </div>
-
+  
   
         
 
